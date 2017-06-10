@@ -14,7 +14,7 @@
    height="990"
    id="svg3103"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="cover.svg"
    inkscape:export-filename="/home/jonathon/documents/Manjaro/manjaro-user-guide/cover.png"
    inkscape:export-xdpi="90"
@@ -71,9 +71,9 @@
          result="composite1" />
       <feGaussianBlur
          id="feGaussianBlur4520"
+         in="composite"
          stdDeviation="1.5"
-         result="blur"
-         in="composite" />
+         result="blur" />
       <feOffset
          id="feOffset4522"
          dx="2"
@@ -118,9 +118,9 @@
        xlink:href="#linearGradient3156-7"
        inkscape:collect="always" />
     <filter
+       color-interpolation-filters="sRGB"
        id="filter4514-6"
-       inkscape:label="Drop Shadow"
-       color-interpolation-filters="sRGB">
+       inkscape:label="Drop Shadow">
       <feFlood
          id="feFlood4516-4"
          flood-opacity="0.5"
@@ -149,9 +149,9 @@
          result="composite2" />
     </filter>
     <filter
+       color-interpolation-filters="sRGB"
        id="filter4729"
-       inkscape:label="Drop Shadow"
-       color-interpolation-filters="sRGB">
+       inkscape:label="Drop Shadow">
       <feFlood
          id="feFlood4731"
          flood-opacity="0.5"
@@ -393,17 +393,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41919192"
-     inkscape:cx="-133.77602"
+     inkscape:cx="350.48904"
      inkscape:cy="413.04996"
      inkscape:document-units="px"
      inkscape:current-layer="g4816"
      showgrid="false"
-     borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1007"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     borderlayer="true" />
   <metadata
      id="metadata3108">
     <rdf:RDF>
@@ -605,22 +600,24 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.38224792px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4298)"
            x="332.49734"
            y="949.07153"
-           id="text4162"><tspan
+           id="text4162"
+           sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan4164"
              x="332.49734"
              y="949.07153">manjaro</tspan></text>
       </g>
       <text
+         sodipodi:linespacing="125%"
          id="text4166-3"
-         y="959.57739"
-         x="413.73651"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4514-6)"
+         y="957.19183"
+         x="516.31482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4514-6)"
          xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3775"
-           x="413.73651"
-           y="959.57739">guía de usuario</tspan></text>
+           y="957.19183"
+           x="516.31482"
+           id="tspan4168-7"
+           sodipodi:role="line">user guide</tspan></text>
     </g>
   </g>
   <g
