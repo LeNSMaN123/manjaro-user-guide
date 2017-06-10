@@ -1,0 +1,6 @@
+Hace bastante tiempo que uso la distro Manjaro y siempre he querido ayudar al proyecto y aportar algo de alguna manera. No soy programador,
+no tengo mucho dinero (qué bien me vendría), tampoco sé mucho de inglés (me defiendo, no siempre muy bien xD), pero traducir la guía de usuario al castellano (español) ayudaría a los nuevos a tener una guía de referencia en su idioma.
+
+Hace tiempo que le voy dando vueltas, y el fork lo tenía hecho hace tiempo, pero entre médicos y exámenes y trabajo, pues no encontraba el tiempo necesario para emprender esta tarea. También me estoy metiendo es cosas que desconozco cómo funciona todo, LaTex ni idea, LyX ni idea, GitHub tampoco, pero leer y aprender me gusta, así que poco a poco iré dándole caña.
+
+En resumen de todo esto es: pretende ser la traducción de la guía de usuario de Manjaro del Shakespeare al castellano (español o como lo queráis llamar, siempre que nos entendamos). 
